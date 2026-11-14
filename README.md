@@ -4,7 +4,6 @@
 
 No camera, no microphone, no wearable. Just the WiFi you already have.
 
-[image: the 3D terrain in the browser, calm blue with a yellow/red ripple from someone walking by]
 
 ---
 
@@ -15,7 +14,7 @@ No camera, no microphone, no wearable. Just the WiFi you already have.
 - **Plays it as sound.** Movement becomes a drone, a groove, a Geiger counter or a beat that evolves with what happens in the room.
 - **Shows it on the board itself.** The board's own screen displays a hi-fi style spectrum analyser, coloured the same way.
 
-[image: the board's screen showing the coloured spectrum bars]
+
 
 ---
 
@@ -39,9 +38,6 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 - **Record** straight to a WAV file
 - **Mute** with the button on the board
 
-[image: the sound panel]
-
-[image or video: short clip of someone walking past, with the terrain reacting and the sound playing]
 
 ---
 
@@ -54,7 +50,6 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 - **Board WiFi:** change the board's network from the page. If the new one fails, the board falls back to the previous one by itself.
 - Drag the terrain to turn it; a strip at the bottom shows the last minute of movement
 
-[image: full-screen clean view]
 
 ---
 
@@ -68,7 +63,6 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 
 The board only needs USB power (a charger or powerbank works) and can sit in another room.
 
-[image: the board next to the router]
 
 ---
 
