@@ -1,0 +1,7 @@
+WiFi Motion Synth
+Copyright 2026 oscaronsite
+https://github.com/oscaronsite/wifi-motion-synth
+
+The board firmware (app_main.c) is based on the csi_recv_router example
+from Espressif esp-csi (https://github.com/espressif/esp-csi),
+Copyright Espressif Systems, licensed under the Apache License 2.0.
