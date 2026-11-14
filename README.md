@@ -15,6 +15,8 @@ No camera, no microphone, no wearable. Just the WiFi you already have.
 - **Shows it on the board itself.** The board's own screen displays a hi-fi style spectrum analyser, coloured the same way.
 
 
+<img width="2560" height="1281" alt="photo_2026-11-14_11-07-18" src="https://github.com/user-attachments/assets/f7c5e236-9896-4abd-991a-f2d8c02ec41d" />
+
 
 ---
 
