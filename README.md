@@ -52,6 +52,8 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 - **Board WiFi:** change the board's network from the page. If the new one fails, the board falls back to the previous one by itself.
 - Drag the terrain to turn it; a strip at the bottom shows the last minute of movement
 
+<img width="1080" height="1073" alt="photo_2026-11-14_11-07-27" src="https://github.com/user-attachments/assets/5d0e5288-0d31-4df8-83f3-f12479a7587b" />
+
 
 ---
 
