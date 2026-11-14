@@ -5,6 +5,8 @@
 No camera, no microphone, no wearable. Just the WiFi you already have.
 
 
+<img width="1280" height="622" alt="photo_2026-11-14_11-18-40" src="https://github.com/user-attachments/assets/9824cecd-dbd7-42b5-bfe9-54f97ad3ca59" />
+
 ---
 
 ## What it does
@@ -13,10 +15,6 @@ No camera, no microphone, no wearable. Just the WiFi you already have.
 - **Draws it as a living terrain.** The current signal is the front line; the last seconds slide back into a 3D landscape. Blue means calm. Yellow, orange and red mean something moved.
 - **Plays it as sound.** Movement becomes a drone, a groove, a Geiger counter or a beat that evolves with what happens in the room.
 - **Shows it on the board itself.** The board's own screen displays a hi-fi style spectrum analyser, coloured the same way.
-
-
-<img width="2560" height="1281" alt="photo_2026-11-14_11-07-18" src="https://github.com/user-attachments/assets/f7c5e236-9896-4abd-991a-f2d8c02ec41d" />
-
 
 ---
 
@@ -40,7 +38,6 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 - **Record** straight to a WAV file
 - **Mute** with the button on the board
 
-
 ---
 
 ## The page
@@ -51,9 +48,6 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 - **Clean view** (double-click the terrain, or H) and **full screen** (F) for a pure visual
 - **Board WiFi:** change the board's network from the page. If the new one fails, the board falls back to the previous one by itself.
 - Drag the terrain to turn it; a strip at the bottom shows the last minute of movement
-
-<img width="1080" height="1073" alt="photo_2026-11-14_11-07-27" src="https://github.com/user-attachments/assets/5d0e5288-0d31-4df8-83f3-f12479a7587b" />
-
 
 ---
 
@@ -67,6 +61,8 @@ Everything is synthesized live in the browser, no samples. You can shape it with
 
 The board only needs USB power (a charger or powerbank works) and can sit in another room.
 
+
+<img width="2560" height="1281" alt="photo_2026-11-14_11-07-18" src="https://github.com/user-attachments/assets/f7c5e236-9896-4abd-991a-f2d8c02ec41d" />
 
 ---
 
